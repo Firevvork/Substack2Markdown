@@ -2,3 +2,7 @@
 config.py
 setup.py
 venv
+data
+substack_html_pages
+save
+__pycache__
